@@ -1,0 +1,33 @@
+﻿OrderID,CustomerID,Age,City,OrderDate,Product,Category,Quantity,UnitPrice,PaymentMethod
+1001,C001,22,Delhi,46027,Notebook,Stationery,3,50,UPI
+1002,C002,34,Mumbai,46032,Pen,Stationery,10,10,Cash
+1003,C003,28,delhi,46037,Desk Lamp,Home,1,850,Card
+1004,C004,45,Bengaluru,46044,USB Cable,Electronics,2,250,UPI
+1005,C005,19,Chennai,46055,Notebook,Stationery,4,50,Cash
+1006,C006,52,Pune,Feb 6 2026,Office Chair,Furniture,1,6500,Card
+1007,C001,22,Delhi,46061,USB Cable,Electronics,1,250,UPI
+1008,C007,31,Hyderabad,46065,Water Bottle,Home,2,400,UPI
+1009,C008,26,Chennai,46072,Desk Lamp,Home,1,850,Card
+1010,C002,34,Mumbai,46074,Pen,Stationery,15,10,Cash
+1011,C003,28,Delhi,46082,Office Chair,Furniture,1,6500,Card
+1012,C009,41,Kolkata,46085,Notebook,Stationery,2,50,UPI
+1013,C010,,Pune,46091,USB Cable,Electronics,3,250,Card
+1014,C004,45,Bengaluru,46093,Desk Lamp,Home,2,850,Card
+1015,C005,19,Chennai,46097,Water Bottle,Home,1,400,UPI
+1016,C011,36,,46101,Pen,Stationery,8,10,Cash
+1017,C006,52,Pune,46114,Notebook,Stationery,five,50,UPI
+1018,C007,31,Hyderabad,46119,USB Cable,Electronics,2,250,Card
+1019,C008,26,Chennai,46121,Laptop,Electronics,1,"₹55,000",Card
+1020,C009,41,Kolkata,46127,Office Chair,Furniture,1,6500,Card
+1021,C010,,Pune,46132,Pen,Stationery,6,10,UPI
+1022,C001,22,Delhi,46137,Water Bottle,Home,3,400,UPI
+1023,C002,34,Mumbai,46143,Desk Lamp,Home,1,850,Card
+1024,C003,28,delhi,46147,Notebook,Stationery,2,50,Cash
+1025,C004,45,Bengaluru,46153,USB Cable,Electronics,5,250,UPI
+1025,C004,45,Bengaluru,46153,USB Cable,Electronics,5,250,UPI
+1026,C011,36,,46159,Desk Lamp,Home,1,850,Card
+1027,C012,29,Jaipur,46164,Notebook,Stationery,3,50,UPI
+1028,C013,24,Ahmedabad,46176,Water Bottle,Home,2,400,Cash
+1029,C014,61,Surat,46182,Office Chair,Furniture,1,6500,Card
+1030,C015,33,Lucknow,46188,USB Cable,Electronics,,250,UPI
+1031,C016,27,Jaipur,46193,Notebook,stationery,2,50,Card
